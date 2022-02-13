@@ -13,7 +13,7 @@
 - Interact and gossip, with your TV favorites
 - Hop on to our voice channel to listen to your favorite music
 
-Here is a demo of the Michael Scott Discord bot in action.
+Here is a demo of Banter Bots in action.
 
 
 
