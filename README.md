@@ -34,10 +34,10 @@ https://user-images.githubusercontent.com/71642167/153750618-916a8ca1-6612-4b7d-
 - [Michael Scott Bot](https://discord.com/api/oauth2/authorize?client_id=942354345792536607&permissions=2048&scope=bot)
 
 > You can also directly chat with the model hosted on Hugging Face's Model Hub.
-- [Chandler Bing Bot](https://huggingface.co/anweasha/DialoGPT-small-Chandler)
-- [Jake Peralta Bot](https://huggingface.co/anweasha/DialoGPT-small-Jake)
-- [Harry Potter Bot](https://huggingface.co/aishanisingh/DialoGPT-small-harrypotter)
-- [Michael Scott Bot](https://huggingface.co/aishanisingh/DiagloGPT-small-michaelscott)
+- [Chandler Bing Model](https://huggingface.co/anweasha/DialoGPT-small-Chandler)
+- [Jake Peralta Model](https://huggingface.co/anweasha/DialoGPT-small-Jake)
+- [Harry Potter Model](https://huggingface.co/aishanisingh/DialoGPT-small-harrypotter)
+- [Michael Scott Model](https://huggingface.co/aishanisingh/DiagloGPT-small-michaelscott)
 
 ## Resource Links
 - [Friends dataset on Kaggle](https://www.kaggle.com/ryanstonebraker/friends-transcript)
