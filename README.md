@@ -1,7 +1,6 @@
 # Banter Bots
 
 > **Interact with your favorite characters anytime, anywhere!**
-<br>
 
 Here is a demo of the Michael Scott Discord bot in action.
 
