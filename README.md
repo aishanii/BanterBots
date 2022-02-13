@@ -3,6 +3,11 @@
 	<h3 align="center"> Interact with your favorite characters anytime, anywhere! </h3>
 </p>
 
+<p align="center">
+![final_logo](https://user-images.githubusercontent.com/84021861/153753174-8ff8bb7c-119d-4e58-96e3-dc94687ed408.jpg)
+	
+
+
 ## Features:
 - Choose from a multitude of characters available on different channels
 - Interact and gossip, with your TV favorites
