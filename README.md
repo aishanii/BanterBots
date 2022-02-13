@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-	<img src="https://github.com/aishanii/BanterBots/blob/main/final_logo.jpg" width=200>
+	<img src="https://github.com/aishanii/BanterBots/blob/main/final_logo.jpg" width=400>
 </div>	
 
 
