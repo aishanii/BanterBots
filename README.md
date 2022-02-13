@@ -2,6 +2,10 @@
 
 > **Interact with your favorite characters anytime, anywhere!**
 
+
+https://user-images.githubusercontent.com/71642167/153749957-6641ac85-58b7-48dd-9355-ea411a3af18a.mp4
+
+
 ## Features:
 - Choose from a multitude of characters available on different channels
 - Interact and gossip, with your TV favorites
@@ -28,3 +32,12 @@
 
 ## References:
 - [Medium article by Rostyslav Neskorozhenyi](https://towardsdatascience.com/make-your-own-rick-sanchez-bot-with-transformers-and-dialogpt-fine-tuning-f85e6d1f4e30)
+
+
+
+## Authors
+
+- [@aishani](https://github.com/aishanii)
+- [@anweasha](https://github.com/anweasha)
+- [@shatakshi](https://github.com/Shatakshi-Singh)
+- [@suhana](https://www.linkedin.com/in/suhanathakur/)
