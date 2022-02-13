@@ -6,7 +6,6 @@
 Here is a demo of the Michael Scott Discord bot in action.
 
 https://user-images.githubusercontent.com/71642167/153749957-6641ac85-58b7-48dd-9355-ea411a3af18a.mp4
-<br>
 
 ## Features:
 - Choose from a multitude of characters available on different channels
