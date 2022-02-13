@@ -27,8 +27,17 @@ https://user-images.githubusercontent.com/71642167/153750618-916a8ca1-6612-4b7d-
 - Repl.it
 - [youtube_dl](https://pypi.org/project/youtube_dl/)
 
-## Structure of the Project
+## Add the Bots to Your Discord Server
+- [Chandler Bing Bot](https://discord.com/api/oauth2/authorize?client_id=942032401402560522&permissions=2048&scope=bot)
+- [Jake Peralta Bot](https://discord.com/api/oauth2/authorize?client_id=942091553457983600&permissions=2048&scope=bot)
+- [Harry Potter Bot](https://discord.com/api/oauth2/authorize?client_id=942014506341662761&permissions=2048&scope=bot)
+- [Michael Scott Bot](https://discord.com/api/oauth2/authorize?client_id=942354345792536607&permissions=2048&scope=bot)
 
+> You can also directly chat with the model hosted on Hugging Face's Model Hub.
+- [Chandler Bing Bot](https://huggingface.co/anweasha/DialoGPT-small-Chandler)
+- [Jake Peralta Bot](https://huggingface.co/anweasha/DialoGPT-small-Jake)
+- [Harry Potter Bot](https://huggingface.co/aishanisingh/DialoGPT-small-harrypotter)
+- [Michael Scott Bot](https://huggingface.co/aishanisingh/DiagloGPT-small-michaelscott)
 
 ## Resource Links
 - [Friends dataset on Kaggle](https://www.kaggle.com/ryanstonebraker/friends-transcript)
@@ -48,7 +57,6 @@ https://user-images.githubusercontent.com/71642167/153750618-916a8ca1-6612-4b7d-
 <td>
 
 Aishani Singh
-  
 <p align="center">
 <a href = "https://github.com/aishanii"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/aishani-singh-a651191a6/">
@@ -61,7 +69,6 @@ Aishani Singh
 <td>
 
 Anweasha Saha
-  
 <p align="center">
 <a href = "https://github.com/anweasha"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "http://linkedin.com/in/anweasha-saha-a8491b1b4/">
@@ -74,7 +81,6 @@ Anweasha Saha
 <td>
 
 Shatakshi Singh
-
 <p align="center">
 <a href = "https://github.com/Shatakshi-Singh"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/shatakshi-singh-5b750b18b/">
@@ -85,15 +91,12 @@ Shatakshi Singh
 <td>
 
 Suhana Thakur
-
 <p align="center">
 <a href = "https://www.linkedin.com/in/suhanathakur/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
 </td>
-
-
 
 
 </tr>
