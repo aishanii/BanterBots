@@ -24,6 +24,7 @@ https://user-images.githubusercontent.com/71642167/153750618-916a8ca1-6612-4b7d-
 - [Hugging Face](https://huggingface.co)
 - Google Colab
 - Repl.it
+- [youtube_dl](https://pypi.org/project/youtube_dl/)
 
 ## Structure of the Project
 
