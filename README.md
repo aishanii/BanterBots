@@ -113,4 +113,3 @@ Suhana Thakur
 <p align="center">
 	Made by Team Caps Lock
 </p>
->>>>>>> d4728bc49189b823aef7bb745aa95d03ff056e53
