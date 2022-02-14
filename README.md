@@ -15,13 +15,14 @@
 
 Here is a demo of Banter Bots in action.
 
+<img  src="https://media.giphy.com/media/KTuZ5jBVOVDJf1F0Kt/giphy.gif" />
 
 
 <!-- https://user-images.githubusercontent.com/71642167/153750618-916a8ca1-6612-4b7d-bc53-e0fc0f2a63d3.mp4
 
 https://youtu.be/kDW66IfiPp0 -->
 
-[![BANTER BOTS](https://img.youtube.com/vi/kDW66IfiPp0/0.jpg)](https://www.youtube.com/watch?v=kDW66IfiPp0)
+<!-- [![BANTER BOTS](https://img.youtube.com/vi/kDW66IfiPp0/0.jpg)](https://www.youtube.com/watch?v=kDW66IfiPp0) -->
 
 ## Tech Stacks Used:
 - Discord.py API
