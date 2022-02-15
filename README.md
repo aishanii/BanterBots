@@ -12,6 +12,7 @@
 - Choose from a multitude of characters available on different channels
 - Interact and gossip, with your TV favorites
 - Hop on to our voice channel to listen to your favorite music
+- Check latest news and memes with our bots on a single command
 
 Here is a demo of Banter Bots in action.
 
